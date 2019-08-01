@@ -1,0 +1,24 @@
+body{
+   text-align:center;
+}
+main{
+    display:inline-block;
+    margin: 50% auto;
+}
+h1{
+    background-color:rgba(0,200,0);
+}
+#ADD, input{
+    border-color: rgba(0,200,0) ;
+    
+}
+.list{
+    color:orange;
+}
+li > button{
+    background-color:red;
+    color:white;
+}
+ul{
+    list-style-type:none;
+}
